@@ -42,15 +42,6 @@ based on:		"PixelPerfect" by Matt Sellers which was based on "Spare" by Matt Ken
 			<color>000000</color>
 		</image>
 
-		<image name="backgroundLogo" extra="true">
-			<path>./_inc/images/SystemBackground.png</path>
-			<origin>0 0</origin>
-			<pos>0 0</pos>
-			<size>1 1</size>
-			<color>FFFFFF</color>
-			<tile>false</tile>
-		</image>
-
 		<text name="logoText" extra="true">
 				<text>MissingNo.</text>
 				<color>FFFFFF</color>
@@ -61,24 +52,61 @@ based on:		"PixelPerfect" by Matt Sellers which was based on "Spare" by Matt Ken
 				<pos>0 0</pos>
 		</text>
 
-		<image name="background_help" extra="true">
-			<path>./_inc/images/bg_color.png</path>
-			<origin>0 1</origin>
-			<pos>0 1</pos>
-			<size>1 0.070</size>
-			<color>FFFFFF99</color>
-		</image>
-
 		<helpsystem name="help">
-			<textColor>000000</textColor>
-			<iconColor>000000</iconColor>
+			<textColor>FFFFFF</textColor>
+			<iconColor>FFFFFF</iconColor>
 			<fontPath>./_inc/fonts/PetMe64.ttf</fontPath>
 			<fontSize>0.035</fontSize>
+			<pos>1 1</pos>
 		</helpsystem>
 
 	</view>
 
+	<view name="system">
+
+		<image name="background" extra="true">
+			<path>./_inc/images/SystemBackground.png</path>
+			<origin>0 0</origin>
+			<pos>0 0</pos>
+			<size>1 1</size>
+			<color>FFFFFF</color>
+			<tile>false</tile>
+		</image>
+
+		<image name="backgroundLogo" extra="true">
+			<path>./_inc/images/logo.png</path>
+			<origin>0 0</origin>
+			<pos>0 0</pos>
+			<size>1 1</size>
+			<color>FFFFFF</color>
+			<tile>false</tile>
+		</image>
+
+	</view>
+
+	<view name="basic, detailed">
+
+		<image name="background" extra="true">
+			<path>./_inc/images/GamesBackground.png</path>
+			<origin>0 0</origin>
+			<pos>0 0</pos>
+			<size>1 1</size>
+			<color>FFFFFF</color>
+			<tile>false</tile>
+		</image>
+
+	</view>
+
 	<view name="basic">
+
+		<image name="backgroundLogo" extra="true">
+			<path>./_inc/images/SystemBackground.png</path>
+			<origin>0 0</origin>
+			<pos>0 0</pos>
+			<size>1 1</size>
+			<color>FFFFFF</color>
+			<tile>false</tile>
+		</image>
 
 			<image name="logo">
 				<origin>0.5 0.5</origin>
@@ -108,6 +136,15 @@ based on:		"PixelPerfect" by Matt Sellers which was based on "Spare" by Matt Ken
 	</view>
 
 	<view name="detailed">
+
+		<image name="backgroundLogo" extra="true">
+			<path>./_inc/images/SystemBackground.png</path>
+			<origin>0 0</origin>
+			<pos>0 0</pos>
+			<size>1 1</size>
+			<color>FFFFFF</color>
+			<tile>false</tile>
+		</image>
 		
 		<image name="background_logo_gamelist" extra="true">
 			<path>./_inc/images/bg_color.png</path>
