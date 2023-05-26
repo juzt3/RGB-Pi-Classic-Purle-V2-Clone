@@ -42,6 +42,16 @@ based on:		"PixelPerfect" by Matt Sellers which was based on "Spare" by Matt Ken
 			<color>000000</color>
 		</image>
 
+		<text name="logoText" extra="true">
+				<text>MissingNo.</text>
+				<color>FFFFFF</color>
+				<alignment>center</alignment>
+				<fontPath>./_inc/fonts/PetMe64.ttf</fontPath>
+				<fontSize>0.035</fontSize>
+				<size>1 0.225</size>
+				<pos>0 0</pos>
+		</text>
+
 		<image name="background_help" extra="true">
 			<path>./_inc/images/bg_color.png</path>
 			<origin>0 1</origin>
