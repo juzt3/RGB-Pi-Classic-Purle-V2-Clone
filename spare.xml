@@ -61,7 +61,7 @@ based on:		"PixelPerfect" by Matt Sellers which was based on "Spare" by Matt Ken
 
 	<view name="basic">
 
-		<image name="background_logo" extra="true">
+		<image name="backgroundLogo" extra="true">
 			<path>./_inc/images/SystemBackground.png</path>
 			<origin>0 0</origin>
 			<pos>0 0</pos>
@@ -70,7 +70,7 @@ based on:		"PixelPerfect" by Matt Sellers which was based on "Spare" by Matt Ken
 			<tile>false</tile>
 		</image>
 
-		<text name="logo_text" extra="true">
+		<text name="logoText" extra="true">
 				<text>MissingNo.</text>
 				<color>FFFFFF</color>
 				<alignment>center</alignment>
@@ -109,7 +109,7 @@ based on:		"PixelPerfect" by Matt Sellers which was based on "Spare" by Matt Ken
 
 	<view name="detailed">
 
-		<image name="background_logo" extra="true">
+		<image name="backgroundLogo" extra="true">
 			<path>./_inc/images/SystemBackground.png</path>
 			<origin>0 0</origin>
 			<pos>0 0</pos>
@@ -118,7 +118,7 @@ based on:		"PixelPerfect" by Matt Sellers which was based on "Spare" by Matt Ken
 			<tile>false</tile>
 		</image>
 
-		<text name="logo_text" extra="true">
+		<text name="logoText" extra="true">
 				<text>MissingNo.</text>
 				<color>FFFFFF</color>
 				<alignment>center</alignment>
