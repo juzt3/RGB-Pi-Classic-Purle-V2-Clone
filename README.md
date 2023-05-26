@@ -20,7 +20,7 @@ Then restart EmulationStation (Start -> Quit -> Restart EmulationStation).
 
 ```
 ssh pi@retropie
-/etc/emulationstation/themes/es-theme-raspixel-320-240-mod
+cd /etc/emulationstation/themes/es-theme-raspixel-320-240-mod
 git pull
 cd ~
 ```
