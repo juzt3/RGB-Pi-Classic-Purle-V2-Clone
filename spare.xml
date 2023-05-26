@@ -76,7 +76,7 @@ based on:		"PixelPerfect" by Matt Sellers which was based on "Spare" by Matt Ken
 				<text>MissingNo.</text>
 				<color>FFFFFF</color>
 				<alignment>center</alignment>
-				<fontPath>./_inc/fonts/PressStart2P.ttf</fontPath>
+				<fontPath>./_inc/fonts/PetMe64.ttf</fontPath>
 				<fontSize>0.035</fontSize>
 				<size>1 0.45</size>
 				<pos>0 0</pos>
@@ -112,7 +112,7 @@ based on:		"PixelPerfect" by Matt Sellers which was based on "Spare" by Matt Ken
 				<text>MissingNo.</text>
 				<color>FFFFFF</color>
 				<alignment>center</alignment>
-				<fontPath>./_inc/fonts/PressStart2P.ttf</fontPath>
+				<fontPath>./_inc/fonts/PetMe64.ttf</fontPath>
 				<fontSize>0.035</fontSize>
 				<size>1 0.225</size>
 				<pos>0 0</pos>
@@ -168,7 +168,7 @@ based on:		"PixelPerfect" by Matt Sellers which was based on "Spare" by Matt Ken
 				<text>MissingNo.</text>
 				<color>FFFFFF</color>
 				<alignment>center</alignment>
-				<fontPath>./_inc/fonts/PressStart2P.ttf</fontPath>
+				<fontPath>./_inc/fonts/PetMe64.ttf</fontPath>
 				<fontSize>0.035</fontSize>
 				<size>1 0.225</size>
 				<pos>0 0</pos>
