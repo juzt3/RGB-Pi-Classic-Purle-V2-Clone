@@ -25,7 +25,7 @@ based on:		"PixelPerfect" by Matt Sellers which was based on "Spare" by Matt Ken
 			<text name="systemInfo">
 				<backgroundColor>00000000</backgroundColor>
 				<color>FFFFFF</color>
-				<fontPath>./_inc/fonts/PressStart2P.ttf</fontPath>
+				<fontPath>./_inc/fonts/PetMe64.ttf</fontPath>
 				<fontSize>0.035</fontSize>
 				<pos>0 0.75</pos>
 			</text>
@@ -54,7 +54,7 @@ based on:		"PixelPerfect" by Matt Sellers which was based on "Spare" by Matt Ken
 		<helpsystem name="help">
 			<textColor>FFFFFF</textColor>
 			<iconColor>FFFFFF</iconColor>
-			<fontPath>./_inc/fonts/PressStart2P.ttf</fontPath>
+			<fontPath>./_inc/fonts/PetMe64.ttf</fontPath>
 			<fontSize>0.035</fontSize>
 			<pos>1 1</pos>
 		</helpsystem>
@@ -85,7 +85,7 @@ based on:		"PixelPerfect" by Matt Sellers which was based on "Spare" by Matt Ken
 				<text>MissingNo.</text>
 				<color>FFFFFF</color>
 				<alignment>center</alignment>
-				<fontPath>./_inc/fonts/PressStart2P.ttf</fontPath>
+				<fontPath>./_inc/fonts/PetMe64.ttf</fontPath>
 				<fontSize>0.035</fontSize>
 				<size>1 0.45</size>
 				<pos>0 0</pos>
@@ -121,7 +121,7 @@ based on:		"PixelPerfect" by Matt Sellers which was based on "Spare" by Matt Ken
 				<text>MissingNo.</text>
 				<color>FFFFFF</color>
 				<alignment>center</alignment>
-				<fontPath>./_inc/fonts/PressStart2P.ttf</fontPath>
+				<fontPath>./_inc/fonts/PetMe64.ttf</fontPath>
 				<fontSize>0.035</fontSize>
 				<size>1 0.225</size>
 				<pos>0 0</pos>
@@ -146,7 +146,7 @@ based on:		"PixelPerfect" by Matt Sellers which was based on "Spare" by Matt Ken
 				<selectedColor>FFFFFF</selectedColor>
 				<primaryColor>000000</primaryColor>
 				<secondaryColor>888888</secondaryColor>
-				<fontPath>./_inc/fonts/PressStart2P.ttf</fontPath>
+				<fontPath>./_inc/fonts/PetMe64.ttf</fontPath>
 				<pos>0.02 0.2</pos>
 				<size>0.96 0.595</size>
 				<fontSize>0.035</fontSize>
@@ -169,7 +169,7 @@ based on:		"PixelPerfect" by Matt Sellers which was based on "Spare" by Matt Ken
 				<text>MissingNo.</text>
 				<color>FFFFFF</color>
 				<alignment>center</alignment>
-				<fontPath>./_inc/fonts/PressStart2P.ttf</fontPath>
+				<fontPath>./_inc/fonts/PetMe64.ttf</fontPath>
 				<fontSize>0.035</fontSize>
 				<size>1 0.225</size>
 				<pos>0 0</pos>
@@ -194,7 +194,7 @@ based on:		"PixelPerfect" by Matt Sellers which was based on "Spare" by Matt Ken
 				<selectedColor>FFFFFF</selectedColor>
 				<primaryColor>000000</primaryColor>
 				<secondaryColor>888888</secondaryColor>
-				<fontPath>./_inc/fonts/PressStart2P.ttf</fontPath>
+				<fontPath>./_inc/fonts/PetMe64.ttf</fontPath>
 				<pos>0.02 0.20</pos>
 				<size>0.42 0.595</size>
 				<fontSize>0.035</fontSize>
@@ -218,7 +218,7 @@ based on:		"PixelPerfect" by Matt Sellers which was based on "Spare" by Matt Ken
 			<text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount">
 				<color>000000</color>
 				<forceUppercase>1</forceUppercase>
-				<fontPath>./_inc/fonts/PressStart2P.ttf</fontPath>
+				<fontPath>./_inc/fonts/PetMe64.ttf</fontPath>
 				<fontSize>0.035</fontSize>
 				<size>0.24 0.01</size>
 			</text>
@@ -226,14 +226,14 @@ based on:		"PixelPerfect" by Matt Sellers which was based on "Spare" by Matt Ken
 			<text name="md_developer, md_publisher, md_genre, md_players, md_playcount">
 				<color>000000</color>
 				<forceUppercase>0</forceUppercase>
-				<fontPath>./_inc/fonts/PressStart2P.ttf</fontPath>
+				<fontPath>./_inc/fonts/PetMe64.ttf</fontPath>
 				<fontSize>0.035</fontSize>
 				<size>0.23 0.02</size>
 			</text>
 			<datetime name="md_releasedate, md_lastplayed">
 				<color>000000</color>
 				<forceUppercase>0</forceUppercase>
-				<fontPath>./_inc/fonts/PressStart2P.ttf</fontPath>
+				<fontPath>./_inc/fonts/PetMe64.ttf</fontPath>
 				<fontSize>0.035</fontSize>
 				<size>0.23 0.02</size>
 			</datetime>
