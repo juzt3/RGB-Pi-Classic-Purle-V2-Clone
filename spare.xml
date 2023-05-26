@@ -42,21 +42,11 @@ based on:		"PixelPerfect" by Matt Sellers which was based on "Spare" by Matt Ken
 			<color>000000</color>
 		</image>
 
-		<image name="background_pattern" extra="true">
-			<path>./_inc/images/bg_pattern.png</path>
-			<origin>0.5 0.5</origin>
-			<pos>4 0.5</pos>
-			<size>1 1</size>
-			<color>000000</color>
-			<tile>false</tile>
-		</image>
-
 		<helpsystem name="help">
 			<textColor>FFFFFF</textColor>
 			<iconColor>FFFFFF</iconColor>
 			<fontPath>./_inc/fonts/PetMe64.ttf</fontPath>
 			<fontSize>0.035</fontSize>
-			<pos>1 1</pos>
 		</helpsystem>
 
 	</view>
