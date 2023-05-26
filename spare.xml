@@ -42,16 +42,6 @@ based on:		"PixelPerfect" by Matt Sellers which was based on "Spare" by Matt Ken
 			<color>000000</color>
 		</image>
 
-		<text name="logoText" extra="true">
-				<text>MissingNo.</text>
-				<color>FFFFFF</color>
-				<alignment>center</alignment>
-				<fontPath>./_inc/fonts/PetMe64.ttf</fontPath>
-				<fontSize>0.035</fontSize>
-				<size>1 0.225</size>
-				<pos>0 0</pos>
-		</text>
-
 		<helpsystem name="help">
 			<textColor>FFFFFF</textColor>
 			<iconColor>FFFFFF</iconColor>
@@ -82,6 +72,16 @@ based on:		"PixelPerfect" by Matt Sellers which was based on "Spare" by Matt Ken
 			<tile>false</tile>
 		</image>
 
+		<text name="logoText" extra="true">
+				<text>MissingNo.</text>
+				<color>FFFFFF</color>
+				<alignment>center</alignment>
+				<fontPath>./_inc/fonts/PressStart2P.ttf</fontPath>
+				<fontSize>0.035</fontSize>
+				<size>1 0.45</size>
+				<pos>0 0</pos>
+		</text>
+
 	</view>
 
 	<view name="basic, detailed">
@@ -107,6 +107,16 @@ based on:		"PixelPerfect" by Matt Sellers which was based on "Spare" by Matt Ken
 			<color>FFFFFF</color>
 			<tile>false</tile>
 		</image>
+
+		<text name="logoText" extra="true">
+				<text>MissingNo.</text>
+				<color>FFFFFF</color>
+				<alignment>center</alignment>
+				<fontPath>./_inc/fonts/PressStart2P.ttf</fontPath>
+				<fontSize>0.035</fontSize>
+				<size>1 0.225</size>
+				<pos>0 0</pos>
+		</text>
 
 			<image name="logo">
 				<origin>0.5 0.5</origin>
@@ -153,6 +163,16 @@ based on:		"PixelPerfect" by Matt Sellers which was based on "Spare" by Matt Ken
 			<size>0.44 0.615</size>
 			<color>FFFFFFBB</color>
 		</image>
+
+		<text name="logoText" extra="true">
+				<text>MissingNo.</text>
+				<color>FFFFFF</color>
+				<alignment>center</alignment>
+				<fontPath>./_inc/fonts/PressStart2P.ttf</fontPath>
+				<fontSize>0.035</fontSize>
+				<size>1 0.225</size>
+				<pos>0 0</pos>
+		</text>
 
 			<image name="logo">
 				<origin>0.5 0.5</origin>
