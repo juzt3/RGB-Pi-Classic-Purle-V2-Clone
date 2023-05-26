@@ -59,22 +59,9 @@ based on:		"PixelPerfect" by Matt Sellers which was based on "Spare" by Matt Ken
 
 	</view>
 
-	<view name="basic, detailed">
-
-		<image name="background" extra="true">
-			<path>./_inc/images/GamesBackground.png</path>
-			<origin>0 0</origin>
-			<pos>0 0</pos>
-			<size>1 1</size>
-			<color>FFFFFF</color>
-			<tile>false</tile>
-		</image>
-
-	</view>
-
 	<view name="basic">
 
-		<image name="backgroundLogo" extra="true">
+		<image name="background_logo" extra="true">
 			<path>./_inc/images/SystemBackground.png</path>
 			<origin>0 0</origin>
 			<pos>0 0</pos>
@@ -83,7 +70,7 @@ based on:		"PixelPerfect" by Matt Sellers which was based on "Spare" by Matt Ken
 			<tile>false</tile>
 		</image>
 
-		<text name="logoText" extra="true">
+		<text name="logo_text" extra="true">
 				<text>MissingNo.</text>
 				<color>FFFFFF</color>
 				<alignment>center</alignment>
@@ -122,7 +109,7 @@ based on:		"PixelPerfect" by Matt Sellers which was based on "Spare" by Matt Ken
 
 	<view name="detailed">
 
-		<image name="backgroundLogo" extra="true">
+		<image name="background_logo" extra="true">
 			<path>./_inc/images/SystemBackground.png</path>
 			<origin>0 0</origin>
 			<pos>0 0</pos>
@@ -131,7 +118,7 @@ based on:		"PixelPerfect" by Matt Sellers which was based on "Spare" by Matt Ken
 			<tile>false</tile>
 		</image>
 
-		<text name="logoText" extra="true">
+		<text name="logo_text" extra="true">
 				<text>MissingNo.</text>
 				<color>FFFFFF</color>
 				<alignment>center</alignment>
@@ -180,6 +167,14 @@ based on:		"PixelPerfect" by Matt Sellers which was based on "Spare" by Matt Ken
 				<pos>0.725 0.5</pos>
 				<maxSize>0.4 0.595</maxSize>
 			</image>
+		
+		<image name="background_metadata" extra="true">
+			<path>./_inc/images/bg_color.png</path>
+			<origin>0 0</origin>
+			<pos>0.73 0.02</pos>
+			<size>0.26 0.62</size>
+			<color>00000000</color>
+		</image>
 
 			<text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount">
 				<color>000000</color>
