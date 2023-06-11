@@ -55,7 +55,7 @@ based on:		"PixelPerfect" by Matt Sellers which was based on "Spare" by Matt Ken
 	<view name="system">
 
 		<image name="background" extra="true">
-			<path>./_inc/images/default.png</path>
+			<path>./_inc/images/general-background.png</path>
 			<origin>0 0</origin>
 			<pos>0 0</pos>
 			<size>1 1</size>
@@ -87,7 +87,7 @@ based on:		"PixelPerfect" by Matt Sellers which was based on "Spare" by Matt Ken
 	<view name="basic, detailed">
 
 		<image name="background" extra="true">
-			<path>./_inc/images/default.png</path>
+			<path>./_inc/images/general-background.png</path>
 			<origin>0 0</origin>
 			<pos>0 0</pos>
 			<size>1 1</size>
@@ -100,7 +100,7 @@ based on:		"PixelPerfect" by Matt Sellers which was based on "Spare" by Matt Ken
 	<view name="basic">
 
 		<image name="backgroundLogo" extra="true">
-			<path>./_inc/images/default.png</path>
+			<path>./_inc/images/general-background.png</path>
 			<origin>0 0</origin>
 			<pos>0 0</pos>
 			<size>1 1</size>
@@ -148,7 +148,7 @@ based on:		"PixelPerfect" by Matt Sellers which was based on "Spare" by Matt Ken
 	<view name="detailed">
 
 		<image name="backgroundLogo" extra="true">
-			<path>./_inc/images/default.png</path>
+			<path>./_inc/images/general-background.png</path>
 			<origin>0 0</origin>
 			<pos>0 0</pos>
 			<size>1 1</size>
