@@ -134,7 +134,7 @@ based on:		"PixelPerfect" by Matt Sellers which was based on "Spare" by Matt Ken
 			<fontPath>./_inc/fonts/PetMe64.ttf</fontPath>
 			<pos>0.1 0.21</pos>
 			<size>0.8 0.58</size>
-			<fontSize>0.02</fontSize>
+			<fontSize>0.04</fontSize>
 			<alignment>left</alignment>
 		</textlist>
 
