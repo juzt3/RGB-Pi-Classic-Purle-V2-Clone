@@ -12,7 +12,7 @@
 			<path>./system.svg</path>
 		</image>
 		<text name="logoText" extra="true">
-			<text>Nintendo Entertainment System</text>
+			<text>NES</text>
 		</text>
 
 	</view>

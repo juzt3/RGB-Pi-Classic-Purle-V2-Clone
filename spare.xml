@@ -13,7 +13,9 @@ based on:		"PixelPerfect" by Matt Sellers which was based on "Spare" by Matt Ken
 	<formatVersion>4</formatVersion>
 
 	<feature supported="carousel">
+
 		<view name="system">
+
 			<carousel name="systemcarousel">
 				<color>00000000</color>
 				<logoSize>1 1</logoSize>
@@ -27,20 +29,14 @@ based on:		"PixelPerfect" by Matt Sellers which was based on "Spare" by Matt Ken
 				<color>FFFFFF</color>
 				<fontPath>./_inc/fonts/PetMe64.ttf</fontPath>
 				<fontSize>0.035</fontSize>
-				<pos>0 0.75</pos>
+				<pos>0 0.792</pos>
 			</text>
+
 		</view>
+
 	</feature>
 
 	<view name="system, basic, detailed">
-
-		<image name="background_color" extra="true">
-			<path>./_inc/images/bg_color.png</path>
-			<origin>0 0</origin>
-			<pos>0 0</pos>
-			<size>1 1</size>
-			<color>000000</color>
-		</image>
 
 		<helpsystem name="help">
 			<textColor>FFFFFF</textColor>
@@ -79,7 +75,7 @@ based on:		"PixelPerfect" by Matt Sellers which was based on "Spare" by Matt Ken
 				<fontPath>./_inc/fonts/PetMe64.ttf</fontPath>
 				<fontSize>0.035</fontSize>
 				<size>1 0.45</size>
-				<pos>0 0</pos>
+				<pos>0 -0.03</pos>
 		</text>
 
 	</view>
@@ -99,10 +95,13 @@ based on:		"PixelPerfect" by Matt Sellers which was based on "Spare" by Matt Ken
 
 	<view name="basic">
 
+		<!--
+			background Logo hidden pos 2 2
+		-->
 		<image name="backgroundLogo" extra="true">
 			<path>./_inc/images/general-background.png</path>
 			<origin>0 0</origin>
-			<pos>0 0</pos>
+			<pos>2 2</pos>
 			<size>1 1</size>
 			<color>FFFFFF</color>
 			<tile>false</tile>
@@ -115,33 +114,29 @@ based on:		"PixelPerfect" by Matt Sellers which was based on "Spare" by Matt Ken
 				<fontPath>./_inc/fonts/PetMe64.ttf</fontPath>
 				<fontSize>0.035</fontSize>
 				<size>1 0.225</size>
-				<pos>0 0</pos>
+				<pos>0 0.082</pos>
 		</text>
 
-			<image name="logo">
-				<origin>0.5 0.5</origin>
-				<pos>2 2</pos>
-				<maxSize>0.4 0.16</maxSize>
-			</image>
-
-		<image name="background_gamelist" extra="true">
-			<path>./_inc/images/bg_color.png</path>
-			<origin>0 0</origin>
-			<pos>0.01 0.19</pos>
-			<size>0.98 0.615</size>
-			<color>FFFFFFBB</color>
+		<!--
+			logo pos 2 2 outside of the screen
+		-->
+		<image name="logo">
+			<origin>0.5 0.5</origin>
+			<pos>2 2</pos>
+			<maxSize>0.4 0.16</maxSize>
 		</image>
 
-			<textlist name="gamelist">
-				<selectorColor>000000</selectorColor>
-				<selectedColor>FFFFFF</selectedColor>
-				<primaryColor>000000</primaryColor>
-				<secondaryColor>888888</secondaryColor>
-				<fontPath>./_inc/fonts/PetMe64.ttf</fontPath>
-				<pos>0.02 0.2</pos>
-				<size>0.96 0.595</size>
-				<fontSize>0.035</fontSize>
-			</textlist>
+		<textlist name="gamelist">
+			<selectorColor>36045C</selectorColor>
+			<selectedColor>FFFFFF</selectedColor>
+			<primaryColor>FFFFFF</primaryColor>
+			<secondaryColor>00A3CC</secondaryColor>
+			<fontPath>./_inc/fonts/PetMe64.ttf</fontPath>
+			<pos>0.1 0.21</pos>
+			<size>0.8 0.58</size>
+			<fontSize>0.035</fontSize>
+			<alignment>left</alignment>
+		</textlist>
 
 	</view>
 
