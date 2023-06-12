@@ -229,7 +229,7 @@ based on:		"PixelPerfect" by Matt Sellers which was based on "Spare" by Matt Ken
 
 				<rating name="md_rating">
 					<pos>0.6 0.815</pos>
-					<size>0.3 0.1</size>
+					<size>0.2 0.08</size>
 					<filledPath>./_inc/images/star_full.png</filledPath>
 					<unfilledPath>./_inc/images/star_hollow.png</unfilledPath>
 				</rating>
