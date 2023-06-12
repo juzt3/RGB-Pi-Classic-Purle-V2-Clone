@@ -174,7 +174,7 @@ based on:		"PixelPerfect" by Matt Sellers which was based on "Spare" by Matt Ken
 		</image>
 
 			<textlist name="gamelist">
-				<selectorColor>36045C</selectorColor>
+				<selectorColor>FC9C04</selectorColor>
 				<selectedColor>FFFFFF</selectedColor>
 				<primaryColor>FFFFFF</primaryColor>
 				<secondaryColor>00A3CC</secondaryColor>
