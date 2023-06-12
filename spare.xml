@@ -200,7 +200,7 @@ based on:		"PixelPerfect" by Matt Sellers which was based on "Spare" by Matt Ken
 		</image>
 
 			<text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount">
-				<color>000000</color>
+				<color>FFFFFF</color>
 				<forceUppercase>1</forceUppercase>
 				<fontPath>./_inc/fonts/PetMe64.ttf</fontPath>
 				<fontSize>0.035</fontSize>
@@ -234,7 +234,7 @@ based on:		"PixelPerfect" by Matt Sellers which was based on "Spare" by Matt Ken
 				</rating>
 
 				<text name="md_lbl_players">
-					<pos>0.5 0.8</pos>
+					<pos>0.5 0.85</pos>
 				</text>
 				<text name="md_players">
 					<pos>0.5 0.8</pos>
