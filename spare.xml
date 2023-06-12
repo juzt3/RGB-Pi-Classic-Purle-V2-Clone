@@ -237,7 +237,7 @@ based on:		"PixelPerfect" by Matt Sellers which was based on "Spare" by Matt Ken
 					<pos>2 2</pos>
 				</text>
 				<text name="md_players">
-					<pos>0.4 0.82</pos>
+					<pos>0.3 0.815</pos>
 				</text>
 
 				<text name="md_lbl_genre">
@@ -265,7 +265,7 @@ based on:		"PixelPerfect" by Matt Sellers which was based on "Spare" by Matt Ken
 					<pos>2 2</pos>
 				</text>
 				<datetime name="md_releasedate">
-					<pos>0.5 0.82</pos>
+					<pos>0.4 0.815</pos>
 				</datetime>
 
 				<text name="md_lbl_playcount">
