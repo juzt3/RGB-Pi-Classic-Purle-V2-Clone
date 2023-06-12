@@ -134,7 +134,7 @@ based on:		"PixelPerfect" by Matt Sellers which was based on "Spare" by Matt Ken
 			<fontPath>./_inc/fonts/Puzzle-Tale-Pixel-Regular.ttf</fontPath>
 			<pos>0.1 0.21</pos>
 			<size>0.8 0.58</size>
-			<fontSize>0.043 0.5</fontSize>
+			<fontSize>0.08</fontSize>
 			<alignment>left</alignment>
 		</textlist>
 
