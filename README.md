@@ -10,8 +10,8 @@
 
 ```
 ssh pi@retropie
-git clone https://github.com/juzt3/es-theme-raspixel-320-240-mod
-sudo mv ./es-theme-raspixel-320-240-mod /etc/emulationstation/themes/es-theme-raspixel-320-240-mod
+git clone https://github.com/juzt3/RGB-Pi-Classic-Purle-V2-Clone
+sudo mv ./RGB-Pi-Classic-Purle-V2-Clone /etc/emulationstation/themes/RGB-Pi-Classic-Purle-V2-Clone
 ```
 
 Then restart EmulationStation (Start -> Quit -> Restart EmulationStation).
@@ -20,7 +20,7 @@ Then restart EmulationStation (Start -> Quit -> Restart EmulationStation).
 
 ```
 ssh pi@retropie
-cd /etc/emulationstation/themes/es-theme-raspixel-320-240-mod
+cd /etc/emulationstation/themes/RGB-Pi-Classic-Purle-V2-Clone
 git pull
 cd ~
 ```
