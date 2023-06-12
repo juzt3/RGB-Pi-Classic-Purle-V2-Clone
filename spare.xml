@@ -187,8 +187,8 @@ based on:		"PixelPerfect" by Matt Sellers which was based on "Spare" by Matt Ken
 
 			<image name="md_image">
 				<origin>0.5 0.5</origin>
-				<pos>0.725 0.4</pos>
-				<maxSize>0.4 0.6</maxSize>
+				<pos>0.725 0.5</pos>
+				<maxSize>0.4 0.4</maxSize>
 			</image>
 		
 		<image name="background_metadata" extra="true">
