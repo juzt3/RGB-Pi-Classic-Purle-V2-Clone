@@ -228,8 +228,8 @@ based on:		"PixelPerfect" by Matt Sellers which was based on "Spare" by Matt Ken
 				</text>
 
 				<rating name="md_rating">
-					<pos>0.5 0.815</pos>
-					<size>0.23 0.03</size>
+					<pos>0.6 0.815</pos>
+					<size>0.3 0.1</size>
 					<filledPath>./_inc/images/star_full.png</filledPath>
 					<unfilledPath>./_inc/images/star_hollow.png</unfilledPath>
 				</rating>
@@ -238,7 +238,7 @@ based on:		"PixelPerfect" by Matt Sellers which was based on "Spare" by Matt Ken
 					<pos>2 2</pos>
 				</text>
 				<text name="md_players">
-					<pos>0.2 0.815</pos>
+					<pos>0.25 0.815</pos>
 				</text>
 
 				<text name="md_lbl_genre">
@@ -266,7 +266,7 @@ based on:		"PixelPerfect" by Matt Sellers which was based on "Spare" by Matt Ken
 					<pos>2 2</pos>
 				</text>
 				<datetime name="md_releasedate">
-					<pos>0.25 0.815</pos>
+					<pos>0.35 0.815</pos>
 				</datetime>
 
 				<text name="md_lbl_playcount">
