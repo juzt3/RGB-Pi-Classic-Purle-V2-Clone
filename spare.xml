@@ -142,21 +142,16 @@ based on:		"PixelPerfect" by Matt Sellers which was based on "Spare" by Matt Ken
 
 	<view name="detailed">
 
+		<!--
+			background Logo hidden pos 2 2
+		-->
 		<image name="backgroundLogo" extra="true">
 			<path>./_inc/images/general-background.png</path>
 			<origin>0 0</origin>
-			<pos>0 0</pos>
+			<pos>2 2</pos>
 			<size>1 1</size>
 			<color>FFFFFF</color>
 			<tile>false</tile>
-		</image>
-		
-		<image name="background_logo_gamelist" extra="true">
-			<path>./_inc/images/bg_color.png</path>
-			<origin>0 0</origin>
-			<pos>0.01 0.19</pos>
-			<size>0.44 0.615</size>
-			<color>FFFFFFBB</color>
 		</image>
 
 		<text name="logoText" extra="true">
@@ -169,31 +164,26 @@ based on:		"PixelPerfect" by Matt Sellers which was based on "Spare" by Matt Ken
 				<pos>0 0</pos>
 		</text>
 
-			<image name="logo">
-				<origin>0.5 0.5</origin>
-				<pos>2 2</pos>
-				<maxSize>0.33 0.19</maxSize>
-			</image>
+		<!--
+			logo pos 2 2 outside of the screen
+		-->
+		<image name="logo">
+			<origin>0.5 0.5</origin>
+			<pos>2 2</pos>
+			<maxSize>0.33 0.19</maxSize>
+		</image>
 
 			<textlist name="gamelist">
-				<selectorColor>000000</selectorColor>
+				<selectorColor>36045C</selectorColor>
 				<selectedColor>FFFFFF</selectedColor>
-				<primaryColor>000000</primaryColor>
-				<secondaryColor>888888</secondaryColor>
+				<primaryColor>FFFFFF</primaryColor>
+				<secondaryColor>00A3CC</secondaryColor>
 				<fontPath>./_inc/fonts/PetMe64.ttf</fontPath>
 				<pos>0.02 0.20</pos>
 				<size>0.42 0.595</size>
 				<fontSize>0.035</fontSize>
 				<horizontalMargin>0.01</horizontalMargin>
 			</textlist>
-		
-		<image name="background_image" extra="true">
-			<path>./_inc/images/bg_color.png</path>
-			<origin>0 0</origin>
-			<pos>0.46 0.19</pos>
-			<size>0.53 0.615</size>
-			<color>FFFFFFBB</color>
-		</image>
 
 			<image name="md_image">
 				<origin>0.5 0.5</origin>
