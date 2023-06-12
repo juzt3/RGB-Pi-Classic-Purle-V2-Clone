@@ -131,7 +131,7 @@ based on:		"PixelPerfect" by Matt Sellers which was based on "Spare" by Matt Ken
 			<selectedColor>FFFFFF</selectedColor>
 			<primaryColor>FFFFFF</primaryColor>
 			<secondaryColor>00A3CC</secondaryColor>
-			<fontPath>./_inc/fonts/Puzzle-Tale-Pixel-BG.ttf</fontPath>
+			<fontPath>./_inc/fonts/Hardpixel-nn51.otf</fontPath>
 			<pos>0.1 0.21</pos>
 			<size>0.8 0.58</size>
 			<fontSize>0.043</fontSize>
